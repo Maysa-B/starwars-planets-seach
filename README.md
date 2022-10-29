@@ -14,6 +14,10 @@ The most important features of this project are:
 
 > In this project I focused more on the execution than the styling. So, I decided to try **[Tailwind CSS](https://tailwindcss.com/)** to learn a new tool. I was able to make a basic stylization with it and progress my abilities.
 
+## Deploy
+
+If you are interested in seeing the final result you can access it by this [link](https://starwars-planets-search-7ut1-maysa-b.vercel.app/).
+
 ----------
 
 If you see something that can be improved, don't hesitate to get in touch with me! All feedback is very welcome.:sparkles:
