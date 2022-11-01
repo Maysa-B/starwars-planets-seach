@@ -16,7 +16,7 @@ The most important features of this project are:
 
 ## Deploy
 
-If you are interested in seeing the final result you can access it by this [link](https://starwars-planets-search-7ut1-maysa-b.vercel.app/).
+If you are interested in seeing the final result you can access it by this [link](https://starwars-planets-search-maysa-b.vercel.app/).
 
 ----------
 
